@@ -1,7 +1,3 @@
-Got it 👍 — here are the **two complete README.md files** (backend + frontend) in one single response so you can copy them easily.
-
----
-
 # 📄 `news-rag-backend/README.md`
 
 ```markdown
@@ -249,18 +245,3 @@ The frontend interacts with backend routes:
    VITE_API_URL=https://news-rag-backend.onrender.com/api
    ```
 4. Frontend will connect to the deployed backend.
-
----
-
-## 📜 License
-
-MIT
-
-```
-
----
-
-✅ Now you have **both full README files** in one place.  
-
-Do you also want me to create a **CODE_WALKTHROUGH.md** file (for backend) that explains ingestion → embeddings → retrieval → caching → frontend integration? This is one of the deliverables Voosh explicitly asks for.
-```
